@@ -4,3 +4,4 @@ like this i made for the all conversions we will get 12 codes for this all conve
 this is just sample of lex codes
 i made this lex on the project given in my academics
 my future work is to merge all this codes to together and run this code based on the user input
+i am also attaching the lex.yy.c file to run this codes
